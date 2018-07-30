@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,isarray",
+    "logging_enabled": "false",
+    "name": "isarraySmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "isarraySmokeTest.js"
+}
